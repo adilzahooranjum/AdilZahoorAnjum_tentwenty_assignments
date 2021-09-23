@@ -1,0 +1,15 @@
+Could you please take some time to rate yourself from 0 to 10 (0 is no knowledge, 10 is
+expert level knowledge) on the following items:
+● - Application Architecture  8
+● - MVVM 8
+● - MVP 8
+● - RxAndroid 7
+● - Kotlin 8
+● - JAVA 9
+● - Realm 8 
+● - SQLite 8
+● - Threading 7
+● - Room 9
+● - Creating an Android framework 9
+● - Dependency Injection(Dagger2) 8
+● - Firebase 9
